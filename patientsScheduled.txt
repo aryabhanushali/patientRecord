@@ -1,0 +1,15 @@
+
+-------------------------------------
+
+Aaron Rodgers
+    appointment time= 9:00am
+
+Serena Williams
+    appointment time= 10:45 am
+
+Macy Markus:
+    appointment time= 2:30pm
+
+Mark Winston
+    appointment time= 6:00pm
+
